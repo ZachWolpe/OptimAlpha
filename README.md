@@ -16,7 +16,7 @@ Become a contributor: email us zachcolinwolpe@gmail.com
 ## Phase 1: MVP
 Here are the minimal requirements to launch the product:
 
-- ~~Reliable access to TidyQuant (Yahoo finance)
+- ~~Reliable access to TidyQuant (Yahoo finance)~~
 - Given asset tickers: compute the basic dashbaord figures \& summary statistics
 - Design theoretical models
 - Implement the dashboard
