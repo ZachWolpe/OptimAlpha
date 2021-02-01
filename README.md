@@ -3,8 +3,10 @@
 Building an optimal investment portfolio, at approximately zero cost, yielding maximum risk adjusted return. No gambling, long term, high yield, diversified, passive investing.
 
 Contributors:
-Keagan Stokoe - DS/DE
-Zach Wolpe    - DS/DE
+- Keagan Stokoe - DS/DE
+- Zach Wolpe    - DS/DE
+
+Become a contributor: email us zachcolinwolpe@gmail.com
 
 ----------------------
 
