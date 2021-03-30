@@ -1,0 +1,17 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+# Weighted Portfolio Return
+
+Compute the weighted portfolio return:
+- Given any principal figure
+- Any annuity structure
+- Weighted daily by portfolio structure
+
+
+```{r}
+plot(cars)
+```
